@@ -1,0 +1,8 @@
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\bin\Debug\AulaIbrf.exe.config
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\bin\Debug\AulaIbrf.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\bin\Debug\AulaIbrf.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\obj\Debug\AulaIbrf.csproj.AssemblyReference.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\obj\Debug\AulaIbrf.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\obj\Debug\AulaIbrf.csproj.CoreCompileInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\obj\Debug\AulaIbrf.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\AulaIbrf\AulaIbrf\obj\Debug\AulaIbrf.pdb
